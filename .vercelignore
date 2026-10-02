@@ -1,0 +1,4 @@
+backend-ml/
+frontend/node_modules/
+backend-node/node_modules/
+frontend/dist/

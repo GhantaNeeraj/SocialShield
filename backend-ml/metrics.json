@@ -1,0 +1,38 @@
+{
+  "nlp_model": {
+    "name": "Logistic Regression + TF-IDF (N-grams 1-2)",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "confusion_matrix": [
+      [
+        25,
+        0
+      ],
+      [
+        0,
+        25
+      ]
+    ],
+    "sample_count": 50
+  },
+  "url_model": {
+    "name": "Random Forest Classifier (11 Features)",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "confusion_matrix": [
+      [
+        25,
+        0
+      ],
+      [
+        0,
+        25
+      ]
+    ],
+    "sample_count": 50
+  }
+}

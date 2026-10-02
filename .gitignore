@@ -1,0 +1,8 @@
+backend-node/users.json
+backend-node/history_fallback.json
+.env
+.env.*
+!.env.example
+backend-node/.env
+**/node_modules/
+frontend/dist/
